@@ -1,4 +1,4 @@
-# Export-SmsMfaUsageReport.ps1
+# Export-SmsMfaUsageReport.ps1 - test test
 
 Exports a CSV report of Entra ID users, **members and guests**, who **completed MFA using SMS (text message)** in the last 30 days (configurable 1–30), based on Microsoft Graph sign-in logs.
 
